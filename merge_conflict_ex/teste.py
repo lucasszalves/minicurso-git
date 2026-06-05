@@ -7,5 +7,5 @@ def fibas(x):
 
 print("git é mol lesgal")
 
-for n in range(0, 10):
-    print(fibas(n))
+for i in range(0, 10):
+    print(fibas(i))
